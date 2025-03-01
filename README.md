@@ -8,13 +8,13 @@
 <br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&theme=tokyonight" alt="HyoChan1117 Streak Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact&theme=tokyonight" alt="HyoChan1117 Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&theme=light" alt="HyoChan1117 Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact&theme=light" alt="HyoChan1117 Top Languages" />
 </p>
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyoChan1117&theme=gruvbox)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyoChan1117&theme=gruvbox)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HyoChan1117&theme=gruvbox&utcOffset=9)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyoChan1117&theme=default)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyoChan1117&theme=default)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HyoChan1117&theme=default&utcOffset=9)
 
 <br>
 
