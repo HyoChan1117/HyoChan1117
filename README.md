@@ -7,7 +7,6 @@
 
 <br>
 
-<h3>Stat</h3>
 <hr>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&theme=tokyonight" alt="HyoChan1117 Streak Stats" />
