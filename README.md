@@ -7,10 +7,11 @@
 
 <br>
 
-<p>
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&" alt="HyoChan1117" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact" />
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&theme=tokyonight" alt="HyoChan1117 Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact&theme=tokyonight" alt="HyoChan1117 Top Languages" />
 </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HyoChan1117&show_icons=true&theme=tokyonight" />
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyoChan1117&theme=gruvbox)
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HyoChan1117&theme=gruvbox)
