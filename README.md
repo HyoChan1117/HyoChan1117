@@ -12,6 +12,12 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact" />
 </p>
 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyoChan1117&theme=gruvbox)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HyoChan1117&theme=gruvbox)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HyoChan1117&theme=gruvbox)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyoChan1117&theme=gruvbox)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HyoChan1117&theme=gruvbox&utcOffset=9)
+
 <br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
