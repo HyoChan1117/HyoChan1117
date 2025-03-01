@@ -13,10 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HyoChan1117&show_icons=true&theme=gruvbox_light" />
 </p>
 
-<p>
-  
-</p>
-
 <br><br><br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
