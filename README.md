@@ -8,7 +8,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=8&card_width=360)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=8&card_width=500)
 
 <br><br><br>
 
