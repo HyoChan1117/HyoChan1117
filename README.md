@@ -3,7 +3,7 @@
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Passion+One&size=50&duration=4000&pause=4000&color=37A710A2&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Hyo+Chan!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Passion+One&size=57&duration=4000&pause=4000&color=41C513A2&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Hyo+Chan!)](https://git.io/typing-svg)
 <br><br><br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&theme=dark&hide_border=true)
