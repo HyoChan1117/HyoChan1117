@@ -11,6 +11,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=8&card_width=500)
 
+<p>
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=HyoChan1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HyoChan1117&show_icons=true&theme=gruvbox_light" />
+</p>
+
 <br><br><br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
