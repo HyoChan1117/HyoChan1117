@@ -10,10 +10,11 @@
 <p>
   <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&" alt="HyoChan1117" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HyoChan1117&show_icons=true&theme=gruvbox_light" />
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HyoChan1117&show_icons=true&theme=gruvbox_light" />
+  
 </p>
 
 <br><br><br>
