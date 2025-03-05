@@ -8,14 +8,30 @@
 <br><br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&theme=light" alt="HyoChan1117 Streak Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact&theme=light" alt="HyoChan1117 Top Languages" />
+  <img height="180em" id="streak-stats" alt="HyoChan1117 Streak Stats" />
+  <img height="180em" id="top-langs" alt="HyoChan1117 Top Languages" />
 </p>
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyoChan1117&theme=default)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyoChan1117&theme=default)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HyoChan1117&theme=default&utcOffset=9)
+<img id="profile-details" alt="Profile Details" />
+<img id="stats" alt="Stats" />
+<img id="productive-time" alt="Productive Time" />
 
 <br>
 
 ![](./profile-3d-contrib/profile-green.svg)
+
+<script>
+  function updateTheme() {
+    const isDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const theme = isDarkMode ? "dark" : "default";
+
+    document.getElementById("streak-stats").src = `https://github-readme-streak-stats.herokuapp.com/?user=HyoChan1117&theme=${theme}`;
+    document.getElementById("top-langs").src = `https://github-readme-stats.vercel.app/api/top-langs/?username=HyoChan1117&layout=compact&theme=${theme}`;
+    document.getElementById("profile-details").src = `http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HyoChan1117&theme=${theme}`;
+    document.getElementById("stats").src = `http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HyoChan1117&theme=${theme}`;
+    document.getElementById("productive-time").src = `http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HyoChan1117&theme=${theme}`;
+  }
+
+  updateTheme();
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", updateTheme);
+</script>
